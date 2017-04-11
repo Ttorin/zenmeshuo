@@ -1,10 +1,10 @@
 (function(){
 
-var TEXT_LOADING = 'Loading...\n\n历史的行程: %s %';
+var TEXT_LOADING = 'Loading...\n\n范玮蓄力中: %s %';
 var TEXT_SCORE = '+ %s s';
 var TEXT_GAME_OVER = '我为长者续命%s秒\n志己的生命减少%s秒\n而且这个效率efficiency: %s%';
 var TEXT_TRY_AGAIN = '重新续';
-var TEXT_PLAY_BGM = '请州长夫人演唱';
+var TEXT_PLAY_BGM = '不是很懂';
 var TEXT_TIME_ELAPSED = '- %s s';
 var TEXT_TOTAL_TIME_ELAPSED = '累计被续 %s 秒';
 var TEXT_TINY_TIPS = '[微小的提示]\n为了获得坠好的游戏体验，请：\n打开音量\n穿上红色的衣服';
