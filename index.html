@@ -33,6 +33,9 @@
         <script>
             initGame({
                 feedback: '真真的不是很懂',
+                feedbackFunc: function() {
+                    window.open('https://github.com/tusenpo/FlappyFrog/issues');
+                },
                 parent: document.querySelector('#screen')
             });
         </script>
